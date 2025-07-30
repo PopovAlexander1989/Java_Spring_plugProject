@@ -1,4 +1,4 @@
-package com.example.plugProject;
+package com.example.plugProject.Model;
 
 import lombok.Data;
 
